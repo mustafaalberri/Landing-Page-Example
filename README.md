@@ -8,7 +8,7 @@
 * [How to Run The App](#how-to-run-the-app)
 * [Technologies Used](#technologies-used)
 * [Authors and Acknowledgment](#authors-and-acknowledgment)
-* [References] (#references)
+* [References](#references)
 
 ## Project Description
 
