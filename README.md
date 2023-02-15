@@ -6,7 +6,9 @@
 * [Support](#support)
 * [Installation](#installation)
 * [How to Run The App](#how-to-run-the-app)
+* [Technologies Used](#technologies-used)
 * [Authors and Acknowledgment](#authors-and-acknowledgment)
+* [References] (#references)
 
 ## Project Description
 
@@ -30,6 +32,9 @@ In order to run this project, you need to have a web browser installed.
 
 ## How to Run The App
 Extract the *'.zip'* file, then run *'index.html'*. 
+
+## Technologies Used
+The technologies used in the creation of the app are: Javascript ES6, HTML, CSS.
 
 ## Authors and Acknowledgment
 The HTML and CSS base files were provided by [Udacity](#udacity.com). Creation of the Javascript program and editing of the HTML and CSS files was done to create a responsive, dynamic, and interactive website by Mustafa Alberri.
