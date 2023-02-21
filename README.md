@@ -31,7 +31,7 @@ Please contact Mustafa Alberri: (E-mail) *mustafaalberri@gmail.com*, or (Mobile 
 In order to run this project, you need to have a web browser installed.
 
 ## How to Run The App
-Extract the *'.zip'* file, then run *'index.html'*. Or, you can just visit this [link](#https://mustafaalberri.github.io/Landing-Page-Example/).
+Extract the *'.zip'* file, then run *'index.html'*. Or, you can just visit this [link](#https://mustafaalberri.github.io/Landing-Page-Example/). 
 
 ## Technologies Used
 The technologies used in the creation of the app are: Javascript ES6, HTML, CSS.
