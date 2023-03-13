@@ -152,6 +152,7 @@ ul.inActive {
     font-weight: bold;
     text-decoration: none;
     color: #000;
+    cursor: pointer;
 }
 
 /* I added a grey shade to distinguish the active link*/
